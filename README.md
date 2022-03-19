@@ -1,2 +1,2 @@
 # audiotomidipd
-A quick Pure Data patch to convert audio input level to a midi value
+A quick Pure Data patch to convert audio input level and pitch to a midi values
